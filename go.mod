@@ -4,7 +4,6 @@ go 1.23.6
 
 require (
 	github.com/gofiber/fiber/v2 v2.52.6
-	github.com/stripe/stripe-go/v75 v75.11.0
 	github.com/stripe/stripe-go/v78 v78.12.0
 )
 
