@@ -16,6 +16,11 @@ github.com/google/uuid
 github.com/klauspost/compress/flate
 github.com/klauspost/compress/gzip
 github.com/klauspost/compress/zlib
+# github.com/lib/pq v1.10.9
+## explicit; go 1.13
+github.com/lib/pq
+github.com/lib/pq/oid
+github.com/lib/pq/scram
 # github.com/mattn/go-colorable v0.1.13
 ## explicit; go 1.15
 github.com/mattn/go-colorable
@@ -31,9 +36,11 @@ github.com/rivo/uniseg
 # github.com/stripe/stripe-go/v78 v78.12.0
 ## explicit; go 1.13
 github.com/stripe/stripe-go/v78
+github.com/stripe/stripe-go/v78/customer
 github.com/stripe/stripe-go/v78/form
 github.com/stripe/stripe-go/v78/paymentintent
 github.com/stripe/stripe-go/v78/refund
+github.com/stripe/stripe-go/v78/subscription
 github.com/stripe/stripe-go/v78/webhook
 # github.com/valyala/bytebufferpool v1.0.0
 ## explicit
